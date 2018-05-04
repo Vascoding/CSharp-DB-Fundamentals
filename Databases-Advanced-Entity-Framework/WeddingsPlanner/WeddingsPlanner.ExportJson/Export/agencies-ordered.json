@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "Exceptional Events",
+    "EmployeesCount": 30,
+    "Town": "Montana"
+  },
+  {
+    "Name": "Ice Occasions",
+    "EmployeesCount": 24,
+    "Town": "Vratsa"
+  },
+  {
+    "Name": "Hannibals Catering & Events",
+    "EmployeesCount": 23,
+    "Town": "Montana"
+  },
+  {
+    "Name": "A-One Weddings & Events",
+    "EmployeesCount": 20,
+    "Town": "Burgas"
+  },
+  {
+    "Name": "Chantily Mansion",
+    "EmployeesCount": 20,
+    "Town": "Burgas"
+  },
+  {
+    "Name": "The Victorian Wedding Company",
+    "EmployeesCount": 19,
+    "Town": "Vidin"
+  },
+  {
+    "Name": "Everything Entertainment",
+    "EmployeesCount": 15,
+    "Town": "Ruse"
+  },
+  {
+    "Name": "Simply Sweet Wedding & Events",
+    "EmployeesCount": 15,
+    "Town": "Gabrovo"
+  },
+  {
+    "Name": "StarStruck Event Planning LLC",
+    "EmployeesCount": 14,
+    "Town": "Veliko Tarnovo"
+  },
+  {
+    "Name": "Allies Party Equipment Rental Inc.",
+    "EmployeesCount": 13,
+    "Town": "Varna"
+  },
+  {
+    "Name": "One Sweet Slice",
+    "EmployeesCount": 13,
+    "Town": "Pernik"
+  },
+  {
+    "Name": "Seize The Day Wedding Planners",
+    "EmployeesCount": 13,
+    "Town": "Veliko Tarnovo"
+  },
+  {
+    "Name": "Encore Creative",
+    "EmployeesCount": 12,
+    "Town": "Vratsa"
+  },
+  {
+    "Name": "Forevermore Events",
+    "EmployeesCount": 12,
+    "Town": "Burgas"
+  },
+  {
+    "Name": "One Mind Studio",
+    "EmployeesCount": 12,
+    "Town": "Kiustendil"
+  },
+  {
+    "Name": "Sapphire Event Marketing",
+    "EmployeesCount": 12,
+    "Town": "Karnobat"
+  },
+  {
+    "Name": "Sunset Gardens",
+    "EmployeesCount": 12,
+    "Town": "Gabrovo"
+  },
+  {
+    "Name": "Monrreal & Company",
+    "EmployeesCount": 11,
+    "Town": "Pernik"
+  },
+  {
+    "Name": "RC Special Events",
+    "EmployeesCount": 11,
+    "Town": "Stara Zagora"
+  },
+  {
+    "Name": "The Event Company",
+    "EmployeesCount": 11,
+    "Town": "Nova Zagora"
+  },
+  {
+    "Name": "A Spice of Life Catering Services",
+    "EmployeesCount": 10,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Darryl & Co.",
+    "EmployeesCount": 10,
+    "Town": "Burgas"
+  },
+  {
+    "Name": "Event Wedding Planning",
+    "EmployeesCount": 10,
+    "Town": "Ruse"
+  },
+  {
+    "Name": "Events By Design",
+    "EmployeesCount": 10,
+    "Town": "Vratsa"
+  },
+  {
+    "Name": "The Manor House",
+    "EmployeesCount": 10,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Wedding Bands & Co.",
+    "EmployeesCount": 10,
+    "Town": "Vidin"
+  },
+  {
+    "Name": "Five Star Catering and Event Productions",
+    "EmployeesCount": 9,
+    "Town": "Vratsa"
+  },
+  {
+    "Name": "Abbey Party Rents",
+    "EmployeesCount": 8,
+    "Town": "Plovdiv"
+  },
+  {
+    "Name": "Festivities Catering & Special Events",
+    "EmployeesCount": 8,
+    "Town": "Montana"
+  },
+  {
+    "Name": "ThatWorks Entertainment",
+    "EmployeesCount": 8,
+    "Town": "Asenovgrad"
+  },
+  {
+    "Name": "Lifetime Weddings and Events",
+    "EmployeesCount": 7,
+    "Town": "Plovdiv"
+  },
+  {
+    "Name": "Splash Cafe",
+    "EmployeesCount": 7,
+    "Town": "Plovdiv"
+  },
+  {
+    "Name": "As You Wish",
+    "EmployeesCount": 6,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Cakewalk",
+    "EmployeesCount": 6,
+    "Town": "Varna"
+  },
+  {
+    "Name": "Divine Events",
+    "EmployeesCount": 6,
+    "Town": "Ruse"
+  },
+  {
+    "Name": "Forevermore Events",
+    "EmployeesCount": 6,
+    "Town": "Plovdiv"
+  },
+  {
+    "Name": "Knox Planning",
+    "EmployeesCount": 6,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Ranch Events",
+    "EmployeesCount": 6,
+    "Town": "Nova Zagora"
+  },
+  {
+    "Name": "Southern Events Company",
+    "EmployeesCount": 6,
+    "Town": "Lovech"
+  },
+  {
+    "Name": "The Dixie Bridal Guide",
+    "EmployeesCount": 6,
+    "Town": "Vidin"
+  },
+  {
+    "Name": "A Perfect Event Productions",
+    "EmployeesCount": 5,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Butter & Company",
+    "EmployeesCount": 5,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Design Works",
+    "EmployeesCount": 5,
+    "Town": "Dobrich"
+  },
+  {
+    "Name": "Paradise Delight Floral & Event Productions",
+    "EmployeesCount": 5,
+    "Town": "Stara Zagora"
+  },
+  {
+    "Name": "Brown Brothers Catering",
+    "EmployeesCount": 4,
+    "Town": "Plovdiv"
+  },
+  {
+    "Name": "BTB Events",
+    "EmployeesCount": 4,
+    "Town": "Pazardzhik"
+  },
+  {
+    "Name": "Creative Catering",
+    "EmployeesCount": 4,
+    "Town": "Aitos"
+  },
+  {
+    "Name": "Glamorous Occasions",
+    "EmployeesCount": 4,
+    "Town": "Burgas"
+  },
+  {
+    "Name": "Little Bird Celebrations",
+    "EmployeesCount": 4,
+    "Town": "Montana"
+  },
+  {
+    "Name": "Organically You Events",
+    "EmployeesCount": 4,
+    "Town": "Nova Zagora"
+  },
+  {
+    "Name": "Save the Date Co.",
+    "EmployeesCount": 4,
+    "Town": "Lovech"
+  },
+  {
+    "Name": "Blooms & Co.",
+    "EmployeesCount": 3,
+    "Town": "Varna"
+  },
+  {
+    "Name": "Create Events",
+    "EmployeesCount": 3,
+    "Town": "Plovdiv"
+  },
+  {
+    "Name": "InStyle Wedding Planning",
+    "EmployeesCount": 3,
+    "Town": "Varna"
+  },
+  {
+    "Name": "Love at First Bite Catering and Event Planning",
+    "EmployeesCount": 3,
+    "Town": "Pleven"
+  },
+  {
+    "Name": "Oh How Charming",
+    "EmployeesCount": 3,
+    "Town": "Stara Zagora"
+  },
+  {
+    "Name": "Arrangers DMC",
+    "EmployeesCount": 2,
+    "Town": "Pleven"
+  },
+  {
+    "Name": "Calluna Events",
+    "EmployeesCount": 2,
+    "Town": "Blagoevgrad"
+  },
+  {
+    "Name": "Classic Party Renters",
+    "EmployeesCount": 2,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Occasions On The Go",
+    "EmployeesCount": 2,
+    "Town": "Sofia"
+  },
+  {
+    "Name": "Platinum Living Events",
+    "EmployeesCount": 2,
+    "Town": "Asenovgrad"
+  },
+  {
+    "Name": "Prime Wedding Company",
+    "EmployeesCount": 2,
+    "Town": "Lovech"
+  },
+  {
+    "Name": "Castles N Coasters",
+    "EmployeesCount": 1,
+    "Town": "Varna"
+  },
+  {
+    "Name": "LT Eventions Inc.",
+    "EmployeesCount": 1,
+    "Town": "Sofia"
+  }
+]

@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<towns>
+  <town name="Asenovgrad">
+    <agencies />
+  </town>
+  <town name="Blagoevgrad">
+    <agencies>
+      <agency name="Calluna Events" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+    </agencies>
+  </town>
+  <town name="Burgas">
+    <agencies />
+  </town>
+  <town name="Dobrich">
+    <agencies />
+  </town>
+  <town name="Gabrovo">
+    <agencies />
+  </town>
+  <town name="Karnobat">
+    <agencies />
+  </town>
+  <town name="Kiustendil">
+    <agencies />
+  </town>
+  <town name="Lovech">
+    <agencies />
+  </town>
+  <town name="Montana">
+    <agencies>
+      <agency name="Exceptional Events" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+      <agency name="Festivities Catering &amp; Special Events" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+      <agency name="Little Bird Celebrations" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+      <agency name="Hannibals Catering &amp; Events" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+    </agencies>
+  </town>
+  <town name="Nova Zagora">
+    <agencies>
+      <agency name="The Event Company" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+    </agencies>
+  </town>
+  <town name="Pazardzhik">
+    <agencies />
+  </town>
+  <town name="Pernik">
+    <agencies>
+      <agency name="Monrreal &amp; Company" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+      <agency name="One Sweet Slice" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+    </agencies>
+  </town>
+  <town name="Pleven">
+    <agencies />
+  </town>
+  <town name="Plovdiv">
+    <agencies>
+      <agency name="Forevermore Events" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+      <agency name="Brown Brothers Catering" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+    </agencies>
+  </town>
+  <town name="Stara Zagora">
+    <agencies>
+      <agency name="Oh How Charming" profit="0.0">
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+        <wedding cash="0" presents="0">
+          <guests>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+            <guest family="BrideGroom">WeddingPlanner.Models.Invitation</guest>
+            <guest family="Bride">WeddingPlanner.Models.Invitation</guest>
+          </guests>
+        </wedding>
+      </agency>
+    </agencies>
+  </town>
+  <town name="Veliko Tarnovo">
+    <agencies />
+  </town>
+  <town name="Vratsa">
+    <agencies />
+  </town>
+</towns>

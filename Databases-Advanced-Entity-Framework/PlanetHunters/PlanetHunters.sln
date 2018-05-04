@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Data", "PlanetHunters.Data\PlanetHunters.Data.csproj", "{18A77F84-4FC2-42E6-BC36-F00A19BAC865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Client", "PlanetHunters.Client\PlanetHunters.Client.csproj", "{2093997B-7A63-4DFD-8BB8-A2F04BDA3C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Models", "PlanetHunters.Models\PlanetHunters.Models.csproj", "{357DC83F-E314-4ADC-9F79-4EB44B8FAB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunter.ExportXmlAndJson", "PlanetHunter.ExportXmlAndJson\PlanetHunter.ExportXmlAndJson.csproj", "{2A76CE05-8815-4C09-93BB-002586619CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Import", "PlanetHunters.Import\PlanetHunters.Import.csproj", "{0E3B81B2-A5F6-48EF-B5EB-5B2D354B65A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A77F84-4FC2-42E6-BC36-F00A19BAC865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A77F84-4FC2-42E6-BC36-F00A19BAC865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A77F84-4FC2-42E6-BC36-F00A19BAC865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A77F84-4FC2-42E6-BC36-F00A19BAC865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2093997B-7A63-4DFD-8BB8-A2F04BDA3C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2093997B-7A63-4DFD-8BB8-A2F04BDA3C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2093997B-7A63-4DFD-8BB8-A2F04BDA3C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2093997B-7A63-4DFD-8BB8-A2F04BDA3C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357DC83F-E314-4ADC-9F79-4EB44B8FAB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357DC83F-E314-4ADC-9F79-4EB44B8FAB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357DC83F-E314-4ADC-9F79-4EB44B8FAB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357DC83F-E314-4ADC-9F79-4EB44B8FAB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A76CE05-8815-4C09-93BB-002586619CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A76CE05-8815-4C09-93BB-002586619CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A76CE05-8815-4C09-93BB-002586619CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A76CE05-8815-4C09-93BB-002586619CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E3B81B2-A5F6-48EF-B5EB-5B2D354B65A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E3B81B2-A5F6-48EF-B5EB-5B2D354B65A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E3B81B2-A5F6-48EF-B5EB-5B2D354B65A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E3B81B2-A5F6-48EF-B5EB-5B2D354B65A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFAdvanced", "EFAdvanced\EFAdvanced.csproj", "{60C99E2D-3BE9-4B04-B11B-B29FA41C3C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GringottsDatabase", "GringottsDatabase\GringottsDatabase.csproj", "{59B13E15-FC32-4268-93DF-F47CDE067BBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital", "Hospital\Hospital.csproj", "{64C8AFF0-31BC-45FC-901D-A8F3CF9511AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C99E2D-3BE9-4B04-B11B-B29FA41C3C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C99E2D-3BE9-4B04-B11B-B29FA41C3C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C99E2D-3BE9-4B04-B11B-B29FA41C3C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C99E2D-3BE9-4B04-B11B-B29FA41C3C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B13E15-FC32-4268-93DF-F47CDE067BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B13E15-FC32-4268-93DF-F47CDE067BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B13E15-FC32-4268-93DF-F47CDE067BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B13E15-FC32-4268-93DF-F47CDE067BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C8AFF0-31BC-45FC-901D-A8F3CF9511AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C8AFF0-31BC-45FC-901D-A8F3CF9511AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C8AFF0-31BC-45FC-901D-A8F3CF9511AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C8AFF0-31BC-45FC-901D-A8F3CF9511AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

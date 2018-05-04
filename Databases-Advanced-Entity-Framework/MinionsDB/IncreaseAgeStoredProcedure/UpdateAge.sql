@@ -1,0 +1,1 @@
+exec dbo.usp_GetOlder @minionId

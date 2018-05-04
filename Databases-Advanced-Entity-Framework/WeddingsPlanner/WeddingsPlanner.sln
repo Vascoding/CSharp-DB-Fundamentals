@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingPlanner.Models", "WeddingPlanner.Models\WeddingPlanner.Models.csproj", "{18D8272A-F656-4850-A775-C84873B0F290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingPlanner.Data", "WeddingPlanner.Data\WeddingPlanner.Data.csproj", "{B4EFED20-2019-4803-B383-29F3C5EED490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingsPlanner.Client", "WeddingsPlanner.Client\WeddingsPlanner.Client.csproj", "{C8667D9A-C5DF-4302-91C8-9D7E8184CDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingsPlanner.JSONImport", "WeddingsPlanner.JSONImport\WeddingsPlanner.JSONImport.csproj", "{4E9BADF2-E2CE-4E3D-B1C7-12003455AF7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingsPlanner.XMLImport", "WeddingsPlanner.XMLImport\WeddingsPlanner.XMLImport.csproj", "{D7F8C5B2-D157-4009-8893-85A5F6CBC77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingsPlanner.ExportJson", "WeddingsPlanner.ExportJson\WeddingsPlanner.ExportJson.csproj", "{44BCCCAA-9615-4377-A347-4197EB44FA75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeddingsPlanner.ExportXml", "WeddingsPlanner.ExportXml\WeddingsPlanner.ExportXml.csproj", "{7C21CAB3-A58E-40BE-ACF4-8BD8A4F30019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D8272A-F656-4850-A775-C84873B0F290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D8272A-F656-4850-A775-C84873B0F290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D8272A-F656-4850-A775-C84873B0F290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D8272A-F656-4850-A775-C84873B0F290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EFED20-2019-4803-B383-29F3C5EED490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EFED20-2019-4803-B383-29F3C5EED490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EFED20-2019-4803-B383-29F3C5EED490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EFED20-2019-4803-B383-29F3C5EED490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8667D9A-C5DF-4302-91C8-9D7E8184CDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8667D9A-C5DF-4302-91C8-9D7E8184CDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8667D9A-C5DF-4302-91C8-9D7E8184CDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8667D9A-C5DF-4302-91C8-9D7E8184CDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E9BADF2-E2CE-4E3D-B1C7-12003455AF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9BADF2-E2CE-4E3D-B1C7-12003455AF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9BADF2-E2CE-4E3D-B1C7-12003455AF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9BADF2-E2CE-4E3D-B1C7-12003455AF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F8C5B2-D157-4009-8893-85A5F6CBC77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F8C5B2-D157-4009-8893-85A5F6CBC77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F8C5B2-D157-4009-8893-85A5F6CBC77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F8C5B2-D157-4009-8893-85A5F6CBC77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BCCCAA-9615-4377-A347-4197EB44FA75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BCCCAA-9615-4377-A347-4197EB44FA75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BCCCAA-9615-4377-A347-4197EB44FA75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BCCCAA-9615-4377-A347-4197EB44FA75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C21CAB3-A58E-40BE-ACF4-8BD8A4F30019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C21CAB3-A58E-40BE-ACF4-8BD8A4F30019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C21CAB3-A58E-40BE-ACF4-8BD8A4F30019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C21CAB3-A58E-40BE-ACF4-8BD8A4F30019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<venues town="Sofia">
+  <venue name="Horse and Plow" capacity="100">
+    <weddings-count>4</weddings-count>
+  </venue>
+  <venue name="Glasshouse" capacity="300">
+    <weddings-count>3</weddings-count>
+  </venue>
+  <venue name="Sand Spring Restaurant" capacity="500">
+    <weddings-count>3</weddings-count>
+  </venue>
+</venues>
